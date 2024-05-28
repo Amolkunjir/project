@@ -1,4 +1,4 @@
-//amol//
+
 pipeline {
 agent {
 label {
